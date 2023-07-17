@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on revising and uploading my projects to github
+- 🌱 I’m currently learning in order to build a strong foundation in github
+
 <!--
 **Han-Kim-0811/Han-Kim-0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
